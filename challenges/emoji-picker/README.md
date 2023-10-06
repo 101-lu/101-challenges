@@ -2,7 +2,7 @@
 
 |> DEMO: https://challenges.101.lu/ <|
 
-Your component does not need to look or match the demo 100%. You very likley won't finish in less than 1h and try and get as far
+Your component does not need to look or match the demo 100%. You very likley won't finish in less than 1h try and get as far
 as you can, and maybe explain your thought process. Adapt the App component how you see fit.
 
 - src/static/emojis.json contains categorized emojis including keywords for each one
